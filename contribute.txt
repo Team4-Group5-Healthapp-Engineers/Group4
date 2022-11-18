@@ -1,0 +1,17 @@
+How to contribute to a project in your company.
+1. Create a folder/directory in your local machine
+2. Change to the new directory with cd “directory name”
+3. Clone your company’s repository by… git clone sshkey
+4. Git branch  ? to show the present branch
+5.  cd into the repository directory
+6. Create a new branch … git checkout -b branchname
+7. Git branch  ? to show the present branch
+8. Create a new script e.g “monitor.sh”
+9. Git status
+10. Git add .  ? move to staging
+11. Git comit -m “...............”
+12. Git push
+13. Copy and paste the new branch —> to show your new branch
+14. At the github click on compare and pull request
+15. Assign the file to a senior lead to review—> an email is sent to the senior lead
+16. After successful review, merge the branch and delete the old one.
